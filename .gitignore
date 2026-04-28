@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+
+# Данные приложения (генерируются при работе)
+workouts.json
+
+# ОС
+.DS_Store
+Thumbs.db
